@@ -90,8 +90,7 @@ h1{
 @media screen and (max-width: 768px){
 .container-grid{
     display: grid;
-    grid-template-columns: 1fr;
-    grid-template-rows: 2fr;
+    grid-template-columns: 1fr 1fr;
     grid-gap: 20px;
 }
 .cell-1, .cell-2, .cell-3, .cell-4, .cell-5, .cell-6, .cell-7, .cell-8 {
