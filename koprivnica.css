@@ -1,0 +1,114 @@
+main{
+    background-color: antiquewhite;
+}
+caption{
+    font-weight: bold;
+}
+.video1{
+    width: 100%;
+}
+.nav_ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+ .nav_li {
+    float: left;
+  }
+  .rest_gastro{
+    float:left;
+  }
+  .rest_gastro a{
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+  }
+  .rest_gastro_ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow:hidden;
+  }
+  .rest_gastro a:hover{
+    background-color: lightgrey;
+  }
+  
+ .nav_li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family:'Courier New', Courier, monospace;
+  }
+  
+.nav_li a:hover {
+    background-color: #6b6b6b;
+    transition: 0.3s;
+  }
+.logo{
+    float: right;
+    margin-right: 20px;
+}
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+.text_on_picture{
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    right: 50%;
+    font-weight: bold;
+    font-family:'Courier New', Courier, monospace;
+    font-size: xxx-large;
+}
+.content{
+    font-family:'Courier New', Courier, monospace;
+}
+mark{
+    background-color: lightblue;
+}
+.koprivnica_17st{
+    width: 95%;
+}
+h1{
+    text-align: center;
+}
+.container-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+}
+table, thead, th, tr, td{
+    width: auto;
+    border: 2px solid;
+}
+td{
+    text-align: center;
+}
+tfoot{
+    font-weight: bold;
+    background-color: lightgrey;
+}
+thead{
+    background-color: lightgrey;
+}
+.contact{
+    text-align: center;
+}
+.submitBtn{
+    font-weight: bold;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 10px 100px;
+    margin-bottom: 5px ;
+}
+footer{
+    background-color: lightgrey;
+}
