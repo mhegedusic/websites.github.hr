@@ -134,4 +134,13 @@ footer{
         width: auto;
         height: auto;
     }
+    .text_on_picture{
+        position: absolute;
+        top: 10%;
+        bottom: 50%;
+        right: 50%;
+        font-weight: bold;
+        font-family:'Courier New', Courier, monospace;
+        font-size: xxx-large;
+    }
     }
