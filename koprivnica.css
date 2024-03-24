@@ -135,7 +135,7 @@ footer{
         height: auto;
     }
     .text_on_picture{
-        position: relative;
+        position: absolute;
         top: 20%;
         bottom: 50%;
         right: 50%;
