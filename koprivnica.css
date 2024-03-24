@@ -129,4 +129,5 @@ footer{
 @media (max-width: 597px){
     .container {
         width: 50%;
+        height: 50%;
     }}
