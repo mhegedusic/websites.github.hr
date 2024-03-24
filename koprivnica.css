@@ -126,3 +126,7 @@ thead{
 footer{
     background-color: lightgrey;
 }
+@media (max-width: 597px){
+    .container {
+        width: 50%;
+    }}
